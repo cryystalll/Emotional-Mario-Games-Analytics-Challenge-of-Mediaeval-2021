@@ -4,7 +4,6 @@
 * A grand challange from MediaEval
 * Motivation: game affects users’ emotions → the connection between emotion and games
 * In this task, participants carry out multimedia analysis in order to gain insight into the emotion of players playing video games. The task is called Emotional Mario because it focuses on the iconic video game Super Mario Bros.
-* ![Variable Declaration](/img/a5.png)
 ## Task 1: Event detection
 * ![Variable Declaration](/img/a1.png)
 ## Dataset: [Toadstool](https://osf.io/qrkcf/)
@@ -32,6 +31,7 @@ sudo apt install p7zip-full
 * ![Variable Declaration](/img/a3.png)
 ## Groundtruth
 * ![Variable Declaration](/img/a4.png)
+* ![Variable Declaration](/img/a5.png)
 ## Report
 
 
