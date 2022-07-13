@@ -1,4 +1,5 @@
 # Emotional Mario: A Games Analytics Challenge of Mediaeval 2021
+## I. Introduction
 * ![Variable Declaration](/img/game.png)
 * [Challenge Link](https://multimediaeval.github.io/editions/2021/tasks/emotionalmario/#:~:text=The%20task%20is%20called%20Emotional,video%20game%20Super%20Mario%20Bros.&text=This%20can%20include%20gameplay%20scenes,what%20happened%20during%20the%20game.)
 * A grand challange from MediaEval
@@ -36,7 +37,12 @@ sudo apt install p7zip-full
 {"event": "flag_reached", "frame_number": 1915}, 
 {"event": "new_stage", "frame_number": 1916},...
 ```
-## Report
+## Method
+## Data Choosing
+* A. Emotional data
+* The given data which may considered have relation to participant’s emotions are facial videos, bio-features. I finally choose only the facial videos as input. The reason why I don’t use other data is that they may differs due to each participant’s body conditions. The standardize among all the other datas may be complicated, requires more background knowledges about biology.
+* B. Game frame data
+* Since the emotional data can only tell us if a game event happens, it can’t tell us which specific game event just happened, so I included the game frame data as input.
 
 
 
