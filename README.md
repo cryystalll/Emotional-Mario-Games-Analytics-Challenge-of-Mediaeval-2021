@@ -3,7 +3,7 @@
 <div align=center><img src="/img/game.png" alt="Cover" width="30%"/></div>
 
 ```
-* A grand challange from MediaEval
+* A grand challenge from MediaEval
 * Motivation: game affects users’ emotions → the connection between emotion and games
 * In this task, participants carry out multimedia analysis in order to gain insight into the emotion of players playing video games. 
 * The task is called Emotional Mario because it focuses on the iconic video game Super Mario Bros.
